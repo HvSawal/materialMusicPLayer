@@ -10,9 +10,9 @@ namespace EP
 {
     class MyConClass
     {
-        //OracleConnection conn;
+        /*OracleConnection conn;
         
-        /*public OracleConnection getConnection()
+        public OracleConnection getConnection()
         {
             string oradb = "Data Source=Harsh;Persist Security Info=True;User ID=root;Password=password;";
             conn = new OracleConnection(oradb);
